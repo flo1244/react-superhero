@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.gif)
+![](src/screenshot.gif)
 
 ### Links
 
-- Live Site URL: [App]()
+- Live Site URL: [App](https://flo1244.github.io/react-superhero/)
 
 ## My process
 
