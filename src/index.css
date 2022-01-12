@@ -117,3 +117,61 @@ code {
   
 }
 
+@media (max-width: 480px) {
+  
+  body {
+    background-position: center;
+  }
+  
+  .navbar { 
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    padding: 15px 0;
+    
+  }
+
+  .title {
+    font-size: 2em;
+  }
+
+  .logo img {
+    height: 4em;
+    width: 4em;
+  }
+
+  .main {
+    width: 90%;
+  }
+
+  #search-bar {
+    font-size: 0.9em;
+  }
+
+  .search-result {
+    height: auto;
+  }
+
+  .search-result .left img {
+    height: 10em;
+  }
+
+  .search-result .right {
+    padding-left: 15px;
+    
+  }
+
+  .search-result .right h1 {
+    font-size: 1.5em;
+  }
+
+  .full-name {
+    font-size: 1em;
+  }
+
+  .stats div {
+    font-size: 0.75em;
+  }
+}
